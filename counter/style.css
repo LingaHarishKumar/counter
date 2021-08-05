@@ -1,0 +1,21 @@
+.total{
+    position: absolute;
+    top: 250px;
+    left: 500px;
+}
+
+p{
+    font-size: 50px;
+    position: relative;
+    left: 270px;
+}
+
+h1{
+    position: relative;
+    left: 200px;
+}
+
+.button-total{
+    position: relative;
+    left: 170px;
+}
